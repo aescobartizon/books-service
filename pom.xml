@@ -24,7 +24,7 @@
 		<java.version>1.8</java.version>
 		<jacoco.version>0.7.5.201505241946</jacoco.version>
 		<docker.image.prefix>anescobar</docker.image.prefix>
-		<sonar.host.url>http://localhos:9000/</sonar.host.url>
+		<sonar.host.url>http://localhost:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<sonar.skippedModules/>
