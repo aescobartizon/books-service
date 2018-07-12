@@ -35,6 +35,7 @@
 		<sonar.language>java</sonar.language>
 		<tag.version>1.0.0</tag.version>
 		<spring-cloud.version>Finchley.BUILD-SNAPSHOT</spring-cloud.version>
+		<docker.image.prefix>anescobar</docker.image.prefix>
 	</properties>
 
 	<dependencies>
